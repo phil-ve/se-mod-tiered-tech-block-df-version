@@ -230,7 +230,7 @@
                 <TypeId>CargoContainer</TypeId>
                 <SubtypeId>LargeBlockLargeContainer8x</SubtypeId>
             </Id>
-            <DisplayName>Timelord Large Cargo Container</DisplayName>
+            <DisplayName>Elite Large Cargo Container</DisplayName>
             <GuiVisible>false</GuiVisible>
             <Icon>Textures\container_large8x.dds</Icon>
             <Description>Description_LargeCargoContainer</Description>
@@ -287,7 +287,7 @@
                 <TypeId>CargoContainer</TypeId>
                 <SubtypeId>SmallBlockLargeContainer8x</SubtypeId>
             </Id>
-            <DisplayName>Timelord Large Cargo Container</DisplayName>
+            <DisplayName>Elite Large Cargo Container</DisplayName>
             <GuiVisible>false</GuiVisible>
             <Icon>Textures\container_large8x.dds</Icon>
             <Description>Description_LargeCargoContainer</Description>

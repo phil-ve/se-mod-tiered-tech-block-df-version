@@ -114,6 +114,10 @@
         <Entry Class="TechAdmin" BlueprintSubtypeId="Tech4x" />
         <Entry Class="TechAdmin" BlueprintSubtypeId="Tech8x" />
 
+        <Entry Class="Components" BlueprintSubtypeId="Tech2x"/>
+        <Entry Class="Components" BlueprintSubtypeId="Tech4x"/>
+        <Entry Class="Components" BlueprintSubtypeId="Tech8x"/>
+
         <Entry Class="BasicComponents2" BlueprintSubtypeId="SolarCell" />
         <Entry Class="BasicComponents2" BlueprintSubtypeId="SteelPlate" />
         <Entry Class="BasicComponents2" BlueprintSubtypeId="Display" />
