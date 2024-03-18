@@ -9,14 +9,15 @@
             <DisplayName>Common Tech</DisplayName>
             <Icon>Textures\tech2x.dds</Icon>
             <Prerequisites>
-                <Item Amount="45" TypeId="Ingot" SubtypeId="Iron"/>
-                <Item Amount="40" TypeId="Ingot" SubtypeId="Silicon"/>
-                <Item Amount="16" TypeId="Ingot" SubtypeId="Cobalt"/>
-                <Item Amount="12" TypeId="Ingot" SubtypeId="Silver"/>
-                <Item Amount="8" TypeId="Ingot" SubtypeId="Gold"/>
+                <Item Amount="50" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="50" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="150" TypeId="Ingot" SubtypeId="Silicon"/>
+                <Item Amount="25" TypeId="Ingot" SubtypeId="Cobalt"/>
+                <Item Amount="130" TypeId="Ingot" SubtypeId="Silver"/>
+                <Item Amount="80" TypeId="Ingot" SubtypeId="Gold"/>
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Tech2x"/>
-            <BaseProductionTimeInSeconds>10</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>600</BaseProductionTimeInSeconds>
         </Blueprint>
         <Blueprint>
             <Id>
@@ -26,15 +27,18 @@
             <DisplayName>Rare Tech</DisplayName>
             <Icon>Textures\tech4x.dds</Icon>
             <Prerequisites>
-                <Item Amount="80" TypeId="Ingot" SubtypeId="Iron"/>
-                <Item Amount="60" TypeId="Ingot" SubtypeId="Silicon"/>
-                <Item Amount="24" TypeId="Ingot" SubtypeId="Cobalt"/>
-                <Item Amount="18" TypeId="Ingot" SubtypeId="Silver"/>
-                <Item Amount="10" TypeId="Ingot" SubtypeId="Gold"/>
-                <Item Amount="2" TypeId="Ingot" SubtypeId="Uranium"/>
+                <Item Amount="500" TypeId="Ingot" SubtypeId="Iron"/>
+                <Item Amount="350" TypeId="Ingot" SubtypeId="Nickel"/>
+                <Item Amount="1350" TypeId="Ingot" SubtypeId="Silicon"/>
+                <Item Amount="600" TypeId="Ingot" SubtypeId="Cobalt"/>
+                <Item Amount="850" TypeId="Ingot" SubtypeId="Silver"/>
+                <Item Amount="1135" TypeId="Ingot" SubtypeId="Gold"/>
+                <Item Amount="145" TypeId="Ingot" SubtypeId="Magnesium"/>
+                <Item Amount="1200" TypeId="Ingot" SubtypeId="Uranium"/>
+                <Item Amount="300" TypeId="Ingot" SubtypeId="Platinum"/>
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Tech4x"/>
-            <BaseProductionTimeInSeconds>20</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>14400</BaseProductionTimeInSeconds>
         </Blueprint>
         <Blueprint>
             <Id>
@@ -44,16 +48,19 @@
             <DisplayName>Exotic Tech</DisplayName>
             <Icon>Textures\tech8x.dds</Icon>
             <Prerequisites>
-                <Item Amount="120" TypeId="Ingot" SubtypeId="Iron"/>
-                <Item Amount="90" TypeId="Ingot" SubtypeId="Silicon"/>
-                <Item Amount="36" TypeId="Ingot" SubtypeId="Cobalt"/>
-                <Item Amount="25" TypeId="Ingot" SubtypeId="Silver"/>
-                <Item Amount="16" TypeId="Ingot" SubtypeId="Gold"/>
-                <Item Amount="4" TypeId="Ingot" SubtypeId="Uranium"/>
-                <Item Amount="1" TypeId="Ingot" SubtypeId="Platinum"/>
+              <Item Amount="3500" TypeId="Ingot" SubtypeId="Iron"/>
+              <Item Amount="8240" TypeId="Ingot" SubtypeId="Gravel"/>
+              <Item Amount="1450" TypeId="Ingot" SubtypeId="Nickel"/>
+              <Item Amount="4650" TypeId="Ingot" SubtypeId="Silicon"/>
+              <Item Amount="1200" TypeId="Ingot" SubtypeId="Cobalt"/>
+              <Item Amount="1490" TypeId="Ingot" SubtypeId="Silver"/>
+              <Item Amount="3500" TypeId="Ingot" SubtypeId="Gold"/>
+              <Item Amount="500" TypeId="Ingot" SubtypeId="Magnesium"/>
+              <Item Amount="5000" TypeId="Ingot" SubtypeId="Uranium"/>
+              <Item Amount="4500" TypeId="Ingot" SubtypeId="Platinum"/>
             </Prerequisites>
             <Result Amount="1" TypeId="Component" SubtypeId="Tech8x"/>
-            <BaseProductionTimeInSeconds>40</BaseProductionTimeInSeconds>
+            <BaseProductionTimeInSeconds>43200</BaseProductionTimeInSeconds>
         </Blueprint>
 
 
